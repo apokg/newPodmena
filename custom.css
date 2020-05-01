@@ -1,0 +1,26 @@
+/*
+
+Your custom css
+
+*/
+
+.mk-desktop-logo.dark-logo {
+	width: 250px !important;
+}
+.mk-sticky-logo {
+	width: 130px !important;
+}
+
+/*.preloader-logo {
+	width: 250px !important;
+}*/
+
+#mk-theme-container > section {
+	font-weight: lighter !important;
+}
+.mk-footer-copyright {
+    float: right;
+}
+.mk-footer-copyright > a {
+    color: #eaeaea !important;
+}
